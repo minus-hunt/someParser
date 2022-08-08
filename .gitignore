@@ -1,2 +1,5 @@
 spotify_json_parser/Playlist1.json
 spotify_json_parser/tracks_from_spotify.txt
+spotify_json_parser/YourLibrary.json
+spotify_json_parser/album_lib.txt
+spotify_json_parser/track_lib.txt
